@@ -237,4 +237,10 @@ Desenvolvimento de interfaces com React
 
 Pablo Ferreira
 
+💻 Time de Desenvolvimento 
+
+Pablo Ferreira
+Lucas alves
+John Kevin
+
 Estudante de Análise e Desenvolvimento de Sistemas e Técnico em Informática, com foco em desenvolvimento Java Backend.
