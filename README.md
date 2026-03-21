@@ -30,7 +30,6 @@ HTML
 
 CSS
 
-Axios
 
 Outros recursos
 
@@ -175,7 +174,7 @@ Também é possível imprimir a nota diretamente pelo navegador.
 
 💻 Como Executar o Projeto
 1️⃣ Clonar o repositório
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/lucaspires31/system-supermarket)
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/PBL279/system-SuperMarket)
 Backend (Spring Boot)
 Entrar na pasta do backend
 cd backend
@@ -236,6 +235,6 @@ Desenvolvimento de interfaces com React
 
 👨‍💻 Autor
 
-Lucas Alves
+Pablo Ferreira
 
 Estudante de Análise e Desenvolvimento de Sistemas e Técnico em Informática, com foco em desenvolvimento Java Backend.
